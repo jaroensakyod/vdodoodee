@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grok Thai Video Prompts"
+  short_description: "Write Thai Grok prompts with acting and @image continuity"
+  default_prompt: "Use $grok-thai-video-storyboard to draft or revise these Thai Grok video prompts with acting cues and image continuity."
